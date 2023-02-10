@@ -1,7 +1,3 @@
-# tutorial
 
-Hello 
-
-## SubHeading
-
-Welcome Back
+Start Practice codes in Visual Studio Code 
+Thank you
